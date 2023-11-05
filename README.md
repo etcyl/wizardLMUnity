@@ -11,8 +11,8 @@ WizardLM white paper:
 https://arxiv.org/pdf/2304.12244.pdf
 
 HuggingFace models:  
-[https://huggingface.co/WizardLM/WizardMath-13B-V1.0  ](https://huggingface.co/TheBloke/WizardLM-13B-Uncensored-GGML)  
-[https://huggingface.co/WizardLM/WizardLM-7B-V1.0](https://huggingface.co/TheBloke/WizardLM-7B-V1.0-Uncensored-GGML)  
+[WizardLM-13B-Uncensored-GGM](https://huggingface.co/TheBloke/WizardLM-13B-Uncensored-GGML)  
+[WizardLM-7B-V1.0-Uncensored-GGML](https://huggingface.co/TheBloke/WizardLM-7B-V1.0-Uncensored-GGML)  
 
 # To Run  
 Download and unzip the Unity build: [wizardLMUnity Google Drive link](https://drive.google.com/file/d/1nsfrpvqyiifhIWQ2tc8BH_mZr-3iw6s2/view?usp=sharing)  
