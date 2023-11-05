@@ -10,7 +10,8 @@ https://assetstore.unity.com/packages/add-ons/machinelearning/ugpt-stand-alone-i
 WizardLM white paper:  
 https://arxiv.org/pdf/2304.12244.pdf
 
-HuggingFace model:  
+HuggingFace models:  
+https://huggingface.co/WizardLM/WizardMath-13B-V1.0  
 https://huggingface.co/WizardLM/WizardLM-7B-V1.0
 
 # To Run:  
@@ -20,7 +21,7 @@ Launch the Unity application from inside the unzipped folder by clicking on the 
 # Tips:
 The 13B model especially can be slow to finish generating responses.  
 You can save the model output by clicking the Save button, which will create a new folder called UGPT_Conversations if it does not already exist, and it will save to both JSON and text format.  
-Saved files have the format: ugpt_conversation_<month>_<day>_<year>_<hour>_<minute>_<am/pm>
+Saved text files have the filename format: ugpt_conversation_<month>_<day>_<year>_<hour>_<minute>_<am/pm>
 
 
 # To-do:  
