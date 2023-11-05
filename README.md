@@ -14,5 +14,16 @@ HuggingFace model:
 https://huggingface.co/WizardLM/WizardLM-7B-V1.0
 
 # To Run:
-Download and unzip the Unity build:
+Download and unzip the Unity build: <Drive Link>
 Launch the Unity application from inside the unzipped folder by clicking on the executable file named WizardLM.exe. 
+
+# Tips:
+The 13B model especially can be slow to finish generating responses.
+You can save the model output by clicking the Save button, which will create a new folder called UGPT_Conversations if it does not already exist, and it will save to both JSON and text format.
+Saved files have the format: ugpt_conversation_<month>_<day>_<year>_<hour>_<minute>_<am/pm>
+
+
+# To-do:
+Add a runtime option to select either 13B or 7B model, or load a custom model if it can work with this framework. 
+Add optional capture for saving user's questions as well as the model's reply.
+Improve UI quality.
