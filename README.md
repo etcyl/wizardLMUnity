@@ -11,7 +11,7 @@ WizardLM white paper:
 https://arxiv.org/pdf/2304.12244.pdf
 
 HuggingFace models:  
-[WizardLM-13B-Uncensored-GGM](https://huggingface.co/TheBloke/WizardLM-13B-Uncensored-GGML)  
+[WizardLM-13B-Uncensored-GGML](https://huggingface.co/TheBloke/WizardLM-13B-Uncensored-GGML)  
 [WizardLM-7B-V1.0-Uncensored-GGML](https://huggingface.co/TheBloke/WizardLM-7B-V1.0-Uncensored-GGML)  
 
 # To Run  
