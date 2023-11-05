@@ -2,7 +2,7 @@
 UGPT with WizardLM-13B in Unity
 
 # Info  
-This repo offers a free download to try a UGPT tool from the Unity asset store using WizardLM-13B (-7B model can also be made available). 
+This repo offers a free download to try an offline local UGPT tool from the Unity asset store using WizardLM-13B (-7B model can also be made available). 
 
 Unity store tool:  
 https://assetstore.unity.com/packages/add-ons/machinelearning/ugpt-stand-alone-implementation-of-chatgpt-254790
