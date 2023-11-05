@@ -18,6 +18,10 @@ https://huggingface.co/WizardLM/WizardLM-7B-V1.0
 Download and unzip the Unity build: Drive Link Coming Soon!  
 Launch the Unity application from inside the unzipped folder by clicking on the executable file named WizardLM.exe. 
 
+![A prompt asking for a Python program that checks if a string contains Hello](./Images/Example1.png)
+![[A prompt asking for a Fall themed soup recipe](./Images/Example2.png)
+![A prompt asking for the difference between recurrent and static neural networks](./Images/Example3.png)
+
 # Tips:
 The 13B model especially can be slow to finish generating responses.  
 You can save the model output by clicking the Save button, which will create a new folder called UGPT_Conversations if it does not already exist, and it will save to both JSON and text format.  
