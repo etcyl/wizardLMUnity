@@ -26,6 +26,7 @@ Launch the Unity application from inside the unzipped folder by clicking on the 
 The 13B model especially can be slow to finish generating responses.  
 You can save the model output by clicking the Save button, which will create a new folder called UGPT_Conversations if it does not already exist, and it will save to both JSON and text format.  
 Saved text files have the filename format: ugpt_conversation_<month>_<day>_<year>_<hour>_<minute>_<am/pm>
+You can open the folder containing saved conversation files by clicking the Open button.
 
 
 # To-do  
