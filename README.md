@@ -14,7 +14,7 @@ HuggingFace model:
 https://huggingface.co/WizardLM/WizardLM-7B-V1.0
 
 # To Run:  
-Download and unzip the Unity build: Drive Link Coming Soon!
+Download and unzip the Unity build: Drive Link Coming Soon!  
 Launch the Unity application from inside the unzipped folder by clicking on the executable file named WizardLM.exe. 
 
 # Tips:
