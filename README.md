@@ -15,7 +15,7 @@ https://huggingface.co/WizardLM/WizardMath-13B-V1.0
 https://huggingface.co/WizardLM/WizardLM-7B-V1.0
 
 # To Run  
-Download and unzip the Unity build: [Drive Link Coming Soon!  ](https://drive.google.com/file/d/1nsfrpvqyiifhIWQ2tc8BH_mZr-3iw6s2/view?usp=sharing)  
+Download and unzip the Unity build: [wizardLMUnity Google Drive link](https://drive.google.com/file/d/1nsfrpvqyiifhIWQ2tc8BH_mZr-3iw6s2/view?usp=sharing)  
 Launch the Unity application from inside the unzipped folder by clicking on the executable file named WizardLM.exe. 
 
 ![A prompt asking for a Python program that checks if a string contains Hello](./Images/Example1.png)  
